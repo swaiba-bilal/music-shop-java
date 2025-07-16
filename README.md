@@ -33,7 +33,15 @@ It demonstrates:
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
+ Clone the repository:
    git clone https://github.com/swaiba-bilal/music-shop-java.git
    cd music-shop-java
+🛠️ Compile the Program:
+cd src
+javac MusicShop.java
+▶️ Run the Program:
+java MusicShop
+📄 License
+This project is licensed under the Apache 2.0 License – feel free to use and contribute!
+🙌 Author
+Swaeba Bilal
