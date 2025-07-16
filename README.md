@@ -1,4 +1,5 @@
 # 🎵 MusicShop Java Project
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 A Java application that simulates a musical instrument shop using core Object-Oriented Programming (OOP) principles including **abstraction**, **inheritance**, **interfaces**, and **polymorphism**.
 
